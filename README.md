@@ -1,5 +1,7 @@
 # atm
 code for ATM machine
+
+
 name=input("Name on your bank account? ")
 balance=float(input("Your current balance? "))
 
